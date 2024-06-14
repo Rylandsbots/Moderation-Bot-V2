@@ -6,7 +6,7 @@ This repository contains the configuration file for a Discord bot. The configura
 
 To set up the bot, follow these steps:
 
-1. Clone the repository or download the configuration file. - Repository: `git clone https://github.com/jared-jewitt/discord-bot-config.git`
+1. Clone the repository or download the configuration file. - Repository: `git clone Coming Soon`
 2. Open the configuration file in a text editor.
 3. Replace the placeholders with your own values, such as the bot token, client ID, server ID, and MySQL database credentials.
 4. Save the configuration file.
